@@ -1,6 +1,11 @@
 # Intro_to_Algorithms
 ## 2021-Fall-NYCU by Prof. Kai-Chiang Wu
 
+### Problem list:
+https://oj.nctu.edu.tw/groups/36/bulletins/
+
+Only the students of this course can access.
+
 ### Course content
 Lecture 1 - Basics and Sorting
 
@@ -29,8 +34,3 @@ Lecture 12 - Greedy Algorithms
 Lecture 13 - Dynamic Programming
 
 Lecture 14 - Network Flow
-
-### Problem list:
-https://oj.nctu.edu.tw/groups/36/bulletins/
-
-Only the students of this course can access.
