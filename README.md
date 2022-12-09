@@ -1,4 +1,4 @@
-# Intro_to_Algorithms
+# Intro-to-Algorithms
 ## 2021-Fall-NYCU by Prof. Kai-Chiang Wu
 ### Problem list:
 https://oj.nctu.edu.tw/groups/36/bulletins/
